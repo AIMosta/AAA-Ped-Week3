@@ -1,2 +1,2 @@
 # AAA-Ped-Week3
-Data for AAA-Ped course week 3
+Data for All About AI, Python Edition course week 3
